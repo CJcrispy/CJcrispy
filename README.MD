@@ -10,7 +10,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 [![Twitter Badge](https://img.shields.io/badge/-CJcrispy-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/CJcrispy_/)](https://twitter.com/CJcrispy_/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chris Copeland-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-copeland-3aa599180/)](https://www.linkedin.com/in/christopher-copeland-3aa599180/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chris-Copeland-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-copeland-3aa599180/)](https://www.linkedin.com/in/christopher-copeland-3aa599180/)
 
 [![Instagram Badge](https://img.shields.io/badge/-cjtech-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cjtech_/)](https://instagram.com/cjtech_)
 
